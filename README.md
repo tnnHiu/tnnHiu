@@ -1,5 +1,4 @@
 # 💫About Me :
-
 -------------------------
 📚      I am a student at Vietnam Korea University of Information and Communication Technology
 -------------------------
@@ -19,11 +18,8 @@
 ![](https://github-readme-stats.vercel.app/api?username=tnnHiu&theme=onedark&hide_border=true&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=tnnHiu&theme=onedark&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=tnnHiu&theme=onedark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
-
-
-
-
-
----
+# Bruhh
 [![](https://visitcount.itsvg.in/api?id=tnnHiu&icon=2&color=0)](https://visitcount.itsvg.in)
+---
+
 
