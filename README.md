@@ -2,10 +2,12 @@
 
 -------------------------
 📚      I am a student at Vietnam Korea University of Information and Communication Technology
+-------------------------
 👨‍💻      Main languages: Kotlin, Java, C++
+-------------------------
 ⛹️‍♂️🎶 I like to play basketball and listen to music
+-------------------------
 📱      I want to be a mobile developer
-
 -------------------------
 
 ## 🌐Socials
