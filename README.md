@@ -6,8 +6,6 @@
 -------------------------
 ⛹️‍♂️🎶 I like to play basketball and listen to music
 -------------------------
-📱      I want to be a mobile developer
--------------------------
 
 ## 🌐Socials
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/trinhnguyennhathieu/) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@trinhnguyennhathieu) 
